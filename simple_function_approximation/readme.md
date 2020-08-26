@@ -1,0 +1,1 @@
+A polynomial of degree n (that is, w_0 + w_1 x + w_2 x ^ 2 + ... + w_n x ^ n) is uniquely determined by any n + 1 different points through which it passes.
